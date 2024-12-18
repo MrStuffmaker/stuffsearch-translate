@@ -2,7 +2,7 @@
 
     "description": "Search anything on several Search engines",
     "query_placeholder": "Enter your search query",
-    "feedback_footer_txt": "<a href='https://url.stuffmaker.org?url=https://discord.fish/stuffsearch' target='_blank'>We want your feedback</a>",
+    "feedback_footer_txt": "<a href='https://discord.fish/stuffsearch' target='_blank'>We want your feedback</a>",
     "search_engine_label": "Choose Search Engine:",
     "search_button" : "Search",
 
