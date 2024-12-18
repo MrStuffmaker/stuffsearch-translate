@@ -11,6 +11,7 @@
     "version_txt": "Version",
     "about_desc" : " Basically just another thing by <a href='https://stuffmaker.org' target='_blank'>Mr Stuffmaker</a><br>Made for the Windows Forest Collab ",
     "about_translator_button" : "Our Translators",
-    "help_us_translate": "Help us translate this page"
+    "help_us_translate": "Help us translate this page",
 
+    "the end?": "for now? (no need to translate since its a comment)"
 }
